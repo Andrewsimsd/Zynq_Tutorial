@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Sep 26 16:08:19 2024
+# Process ID: 41520
+# Current directory: C:/Users/andre/OneDrive/Documents/GitHub/Zynq_Tutorial/Zynq_Tutorial.runs/impl_1
+# Command line: vivado.exe -log Zynq_Example_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Zynq_Example_wrapper.tcl -notrace
+# Log file: C:/Users/andre/OneDrive/Documents/GitHub/Zynq_Tutorial/Zynq_Tutorial.runs/impl_1/Zynq_Example_wrapper.vdi
+# Journal file: C:/Users/andre/OneDrive/Documents/GitHub/Zynq_Tutorial/Zynq_Tutorial.runs/impl_1\vivado.jou
+# Running On        :Andrew-PC
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :Intel(R) Core(TM) i9-14900KF
+# CPU Frequency     :3187 MHz
+# CPU Physical cores:24
+# CPU Logical cores :32
+# Host memory       :68488 MB
+# Swap memory       :22548 MB
+# Total Virtual     :91037 MB
+# Available Virtual :54430 MB
+#-----------------------------------------------------------
+source Zynq_Example_wrapper.tcl -notrace
